@@ -43,6 +43,6 @@ Remember to replace placeholders like `your_user_id` and `your_api_key` with the
 
 For any issues or feedback, please open an [Issues](https://github.com/ILEBORA/ilebora-empowertech/issues) on GitHub.
 
-License
+## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License  - see the [LICENSE](https://github.com/ILEBORA/ilebora-empowertech/blob/main/LICENSE) file for details..
