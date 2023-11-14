@@ -45,4 +45,4 @@ For any issues or feedback, please open an [Issues](https://github.com/ILEBORA/i
 
 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
+This project is licensed under the MIT License.
