@@ -13,7 +13,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  ilebora_empowertech: ^0.0.1
+  ilebora_empowertech: <latest version>
 ```
 
 Then run:
